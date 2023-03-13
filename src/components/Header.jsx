@@ -9,7 +9,7 @@ const Header = () => {
           <header className="container d-flex justify-content-between">
             <div className="logo">
               <Link href="/">
-              <h3>Cummings-Breitenberg LLC</h3>
+              <h3>Company Logo</h3>
               </Link>
             </div>
             <nav>

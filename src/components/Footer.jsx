@@ -4,7 +4,7 @@ const Footer = () => {
     <div className="footer">
       <ul className="d-flex vertical">
         <li className="header_item">
-          <Link href="/">Cummings-Breitenberg LLC</Link>
+          <Link href="/">Company logo</Link>
         </li>
         <li className="header_item">
           <Link href="/">Home</Link>

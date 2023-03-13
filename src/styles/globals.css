@@ -100,11 +100,7 @@ a {
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
+
 main {
   margin: auto;
   flex-direction: column;
@@ -200,6 +196,14 @@ section.header_main {
   margin: auto;
   margin-top: 20px;
 }
+
+.centered{
+  width: 50%;
+  text-align: center;
+  padding: 10%;
+  font-size: 14px;
+}
+
  }
 
  .input-fields {
